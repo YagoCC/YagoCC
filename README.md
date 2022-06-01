@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @YagoCC
 - @YagoCC
 - HTML / SASS / Javascript / React / Vue / NPM / GIT
 - Desenvolvedor Front end na @Shoppub
