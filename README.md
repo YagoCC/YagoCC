@@ -1,6 +1,6 @@
 - @YagoCC
 - HTML / SASS / Javascript / React / Vue / NPM / GIT
-- Desenvolvedor Front end na @Shoppub
+- Desenvolvedor Front end
 - yago_alan@hotmail.com
 
 <!---
